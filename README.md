@@ -65,7 +65,7 @@ Adrishyam generates step-by-step outputs in your specified `output_dir`:
 ## 🔍 Results  
 **Example Outputs from Adrishyam:**  
 
-<div style="display: flex; gap: 20px; align-items: center;"> <div> <img src="images/bench_original.png" alt="Original Hazy Image" width="300"/> <p style="text-align: center;">Original</p> </div> <div> <img src="images/bench_dehazed.png" alt="Dehazed Image" width="300"/> <p style="text-align: center;">Dehazed</p> </div> </div>
+<table> <tr> <td align="center"> <img src="images/bench_original.png" alt="Original Hazy Image" width="200"/><br> <sub>Original</sub> </td> <td align="center"> <img src="images/bench_dehazed.png" alt="Dehazed Image" width="200"/><br> <sub>Dehazed</sub> </td> </tr> </table>
 
 ---
 
