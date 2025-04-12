@@ -65,7 +65,7 @@ Adrishyam generates step-by-step outputs in your specified `output_dir`:
 ## 🔍 Results  
 **Example Outputs from Adrishyam:**  
 
-![Original Hazy Image](images\bench_original.png), [Dehazed Image](images\images\bench_dehazed.png)
+![Original Hazy Image](images/bench_original.png), [Dehazed Image](images/bench_dehazed.png)
 
 ---
 
