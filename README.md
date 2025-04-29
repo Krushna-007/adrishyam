@@ -73,3 +73,5 @@ Adrishyam generates step-by-step outputs in your specified `output_dir`:
 
 Adrishyam is licensed under the MIT License. 📝  
 Feel free to use and contribute!
+
+Pypi Can be found here
