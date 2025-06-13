@@ -1,6 +1,8 @@
 # Adrishyam 🖼️  
 _A Python package for image dehazing using the Dark Channel Prior algorithm._
 
+[![PyPI Downloads](https://static.pepy.tech/badge/adrishyam)](https://pepy.tech/projects/adrishyam)
+
 ## 💡 Key Features  
 - Implements the Dark Channel Prior algorithm for effective image dehazing.  
 - Supports configurable parameters for advanced users.   
