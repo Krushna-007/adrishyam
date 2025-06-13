@@ -2,7 +2,8 @@
 _A Python package for image dehazing using the Dark Channel Prior algorithm._
 
 [![PyPI Downloads](https://static.pepy.tech/badge/adrishyam)](https://pepy.tech/projects/adrishyam)
-Package Link: (https://pypi.org/project/adrishyam/)
+
+Package Link:[Pypi](https://pypi.org/project/adrishyam/)
 
 ## 💡 Key Features  
 - Implements the Dark Channel Prior algorithm for effective image dehazing.  
